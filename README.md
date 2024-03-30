@@ -13,4 +13,5 @@ The project is build on maven as a build management tool,
 
 # Build and Test
 
+The 'DesktopApp.java' has 4 tests in the same class so you will be able to see only 1 class there.
 You can also run the test on Command prompt using "mvn test" command 
